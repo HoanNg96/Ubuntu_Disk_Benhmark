@@ -1,0 +1,2 @@
+- This Benchmark base on fio
+- Default benchmark setting same as Crystal Disk Info
